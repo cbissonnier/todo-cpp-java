@@ -1,6 +1,6 @@
-package org.example.springapi.api.service;
+package org.example.springapi.api.services;
 
-import org.example.springapi.api.model.TodoItem;
+import org.example.springapi.api.models.TodoItem;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;

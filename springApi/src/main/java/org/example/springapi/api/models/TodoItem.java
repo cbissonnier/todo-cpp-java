@@ -1,4 +1,4 @@
-package org.example.springapi.api.model;
+package org.example.springapi.api.models;
 
 import java.time.LocalDateTime;
 
