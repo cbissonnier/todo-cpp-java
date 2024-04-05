@@ -1,0 +1,3 @@
+/Users/clementbissonnier/Documents/perso/todo-cpp-java/database-service/CMakeFiles/main.dir
+/Users/clementbissonnier/Documents/perso/todo-cpp-java/database-service/CMakeFiles/edit_cache.dir
+/Users/clementbissonnier/Documents/perso/todo-cpp-java/database-service/CMakeFiles/rebuild_cache.dir
